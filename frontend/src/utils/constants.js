@@ -1,1 +1,1 @@
-export const BACKEND_URI = "http://localhost:4001";
+export const BACKEND_URI = "https://petstablished-a-pet-adoption-app-backend.onrender.com";
