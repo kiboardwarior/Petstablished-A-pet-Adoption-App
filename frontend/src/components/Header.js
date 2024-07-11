@@ -22,7 +22,7 @@ function Header(props) {
           sx={{ flex: 1 }}
         >
           <Link to='/'>
-            <img src="/images/photo.png" width='150' alt='Logo'/>
+            <img src="https://petstablished.vercel.app/Images/photo.png" width='150' alt='Logo'/>
           </Link>
         </Typography>
         <div>
